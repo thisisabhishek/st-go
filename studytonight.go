@@ -1,4 +1,4 @@
-package stgo
+package studytonight
 
 import "fmt"
 
