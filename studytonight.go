@@ -1,4 +1,4 @@
-package studytonight
+package st-go
 
 import "fmt"
 
