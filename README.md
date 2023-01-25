@@ -1,2 +1,2 @@
-# st-go-packages
+# st-go
 GO language custom package for ST app
