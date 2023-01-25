@@ -1,4 +1,4 @@
-package st-go
+package stgo
 
 import "fmt"
 
