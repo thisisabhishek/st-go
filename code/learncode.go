@@ -2,6 +2,6 @@ package code
 
 import "fmt"
 
-func learntocode() {
+func Learntocode() {
 	fmt.Println("Welcome to ST Interactive learning app")
 }
